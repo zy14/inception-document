@@ -3,11 +3,11 @@
 
 本项目是 **Inception** 的手册部分。
 
-项目地址：[Inception](https://github.com/mysql-inception/inception)
+项目地址：[Inception](https://github.com/hhyo/inception)
 
 ## 在线文档
 
-[Inception使用规范及说明文档](http://mysql-inception.github.io/inception-document/)
+[Inception使用规范及说明文档](https://inception-document.readthedocs.io)
 
 ## 目录
 
